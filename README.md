@@ -1,9 +1,21 @@
 
 # Excel Data Analysis Dashboard
 
+
 ## Project Overview
-An interactive Excel dashboard designed to
-analyze data and visualize key insights.
+
+An interactive Excel dashboard designed to analyze data and visualize key insights.
+
+<br>
+<br>
+
+<h2 align="center">Dashboard Preview</h2>
+
+<div align="center">
+  <img src="Dashboard.png" width="100%" alt="Excel Data Analysis Dashboard">
+</div>
+
+
 
 ## Tools Used
 - Microsoft Excel
